@@ -29,7 +29,7 @@ class HandleInertiaRequests extends Middleware
     }
 
     /**
-     * Define the props that are shared by default.
+     * 9Define the props that are shared by default.
      *
      * @see https://inertiajs.com/shared-data
      *
