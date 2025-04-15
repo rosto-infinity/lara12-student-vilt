@@ -19,7 +19,7 @@ class HandleInertiaRequests extends Middleware
     protected $rootView = 'app';
 
     /**
-     * Determines the current asset version.
+     *8 Determines the current asset version.
      *
      * @see https://inertiajs.com/asset-versioning
      */
